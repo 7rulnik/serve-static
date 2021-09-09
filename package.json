@@ -1,5 +1,5 @@
 {
-  "name": "@7rulnik/serve-static",
+  "name": "@7rulnik/nest-serve-static",
   "version": "2.2.3",
   "description": "Nest - modern, fast, powerful node.js web framework (@serve-static)",
   "author": "Valentin Semirulnik <v7rulnik@gmail.com> (https://7rulnik.me/)",
