@@ -1,8 +1,8 @@
 {
-  "name": "@nestjs/serve-static",
+  "name": "@7rulnik/serve-static",
   "version": "2.2.2",
   "description": "Nest - modern, fast, powerful node.js web framework (@serve-static)",
-  "author": "Kamil Mysliwiec",
+  "author": "Valentin Semirulnik <v7rulnik@gmail.com> (https://7rulnik.me/)",
   "license": "MIT",
   "scripts": {
     "build": "npm run build:lib",
